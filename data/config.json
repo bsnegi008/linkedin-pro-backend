@@ -1,0 +1,12 @@
+{
+  "geminiKey": "",
+  "openaiKey": "",
+  "prompts": {
+    "headline": "Act as a LinkedIn Expert. Write 3 professional, SEO-optimized headlines based on the current headline. Return only 3 lines.",
+    "about": "Act as a Senior LinkedIn Profile Expert. Rewrite this About section to be engaging, professional, and detailed. Use 3-4 paragraphs.",
+    "experience": "Act as a Resume Writer. Rewrite these experience details to be high-impact, using keywords and active verbs. Return 3 distinct versions.",
+    "skills": "Suggest 6 trending LinkedIn skills based on the current profile. Return a comma-separated list.",
+    "banner": "Generate 3 short, punchy, professional taglines (under 5 words) for a LinkedIn Banner based on this role. Return only the 3 lines.",
+    "photo": "Generate a professional headshot description for this user. Lighting: Studio. Background: Office Blur. Style: Corporate."
+  }
+}
